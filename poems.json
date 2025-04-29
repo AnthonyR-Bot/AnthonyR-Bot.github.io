@@ -1,0 +1,31 @@
+{
+  "Perfect":{
+    "Thoughts": {
+      "I'm bored",
+      "Remember when",
+      "It's been how long?",
+      "I miss",
+      "Am I ready?",
+    }
+    "The Past":{
+    { "Childhood": ["Lots of free time","A bedtime","schoolwork", "family parties I have to go", "waking up to watch cartoons", "bit of a crybaby"]}
+    {"Teen Years":["Fortnite/Overwatch", "Worried about college","too much schoolwork", "can see my friends", "can buy my own videogames", "walking home listening to new music", "Youtube"]}
+    }
+    "The Future":{
+      "What I make with the present":{
+        "Like":{
+          "When I was a kid",
+          "When I was in a pandemic",
+          "When I was in a teen",
+          "When I'm in college",
+        }
+      }
+    }
+     "I":{
+       "Realize":{
+         "Do I want to go back?": "No"
+         "Do I go forwards?": "The slowest pace still counts"
+       }
+     }
+  }  
+}

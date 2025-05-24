@@ -1,0 +1,23 @@
+﻿Final Project Proposal
+
+
+I will be making a twine game that’s relatively the same length as the one I turned in on May 5 for the choose your website assignment. My plan is to add a bit more code into the game besides adding branching pathways.
+The main big thing would be an inventory system as well as parts of the game where you need something in your inventory for you to be unlocked. 
+
+
+Plot
+The game is a simple story about trying to find keys to unlock a safehouse out on a quiet street. It will be in the same text game except you know exactly what to do with the objective popping up in your inventory.
+
+
+Basic Features
+1. Inventory system
+2. If statements to check if you have something
+3. A simple ending that resets the game upon clicking restart. 
+4. Collectibles in the form of Lore tidbits of the world
+5. Using html to do visual effects
+
+
+
+
+Documentation:
+ I began documentation as I have a layout of how I want the game to be and feel. I’ll start uploading prototypes of features for the beginning of next week before bug fixing and finishing up the game in late week 9 and 10.
